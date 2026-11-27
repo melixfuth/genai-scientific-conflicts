@@ -1,0 +1,5 @@
+{
+  "conflicting_claim": "Whether increased digital media screen time substantially drives the rise in adolescent depressive symptoms and suicide-related outcomes",
+  "conflict_type": "effect_size_disagreement",
+  "explanation": "Paper A reports a strong, statistically significant link between higher screen time and worsening mental health, presenting it as a key driver of the observed increase in symptoms. Paper B, using specification curve analysis, finds the association to be extremely small—explaining at most 0.4% of variance—arguing it is practically negligible."
+}

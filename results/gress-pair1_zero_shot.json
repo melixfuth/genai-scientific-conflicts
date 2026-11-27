@@ -1,0 +1,5 @@
+{
+  "conflicting_claim": "ChatGPT provides superior annotation performance compared to crowd‑workers and other methods",
+  "conflict_type": "contradictory_results",
+  "explanation": "Paper A reports that zero‑shot ChatGPT achieves higher accuracy and intercoder agreement than crowd‑workers on multiple tweet annotation tasks, emphasizing its efficiency and cost‑effectiveness. Paper B, however, finds that ChatGPT’s performance is inconsistent and generally inferior to a supervised DistilBERT classifier, advising caution in its use for text annotation. The two studies present opposing empirical findings about ChatGPT’s relative effectiveness."
+}

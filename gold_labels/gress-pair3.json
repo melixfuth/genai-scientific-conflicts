@@ -1,0 +1,21 @@
+{
+  "pair_id": "gress-pair3",
+  "domain": "survey methodology",
+  "paper_a": {
+    "title": "Incentives in Web Studies: Methodological Issues and a Review",
+    "authors": "Anja S. Göritz",
+    "year": 2006,
+    "doi_or_url": "http://www.ijis.net/ijis1_1/ijis1_1_goeritz.pdf"
+  },
+  "paper_b": {
+    "title": "Response Rates of Online Surveys in Published Research: A Meta-Analysis",
+    "authors": "Meng-Jia Wu, Kelly Zhao, Francisca Fils-Aime",
+    "year": 2022,
+    "doi_or_url": "https://doi.org/10.1016/j.chbr.2022.100206"
+  },
+  "conflicting_claim": "Offering material incentives significantly increases response rates in online surveys.",
+  "conflict_type": "contradictory_results",
+  "evidence_a": "Results section: Across 32 web survey experiments with over 212,000 participants, offering material incentives significantly increases the odds of starting a web survey (OR = 1.19, p < .001) as well as finishing it (OR = 1.27).",
+  "evidence_b": "Abstract & Results section (Section 3): Across 1,071 online survey response rates from published education research, using incentives shows no statistically significant effect on overall response rates compared to factors like pre-contacting participants or sending reminders.",
+  "explanation": "Göritz finds in a meta-analysis of controlled experiments that material incentives reliably boost participation and completion in web surveys. In contrast, Wu et al. analyze over a thousand published online surveys and find that incentives make no significant difference to response rates, likely because observational comparisons across diverse studies mask within-experiment incentive effects."
+}

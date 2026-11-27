@@ -1,0 +1,5 @@
+{
+  "conflicting_claim": "Paper A asserts that increased new media screen time is a key driver of rising adolescent depressive symptoms and suicide-related outcomes, whereas Paper B reports that digital technology use has a negligible effect on adolescent well‑being, explaining at most 0.4% of the variance.",
+  "conflict_type": "effect_size_disagreement",
+  "explanation": "Paper A analyzes nationally representative surveys and finds strong, statistically significant associations between screen time and mental‑health problems, implying a substantial impact. Paper B applies specification‑curve analysis to three large datasets and finds only a minuscule negative association, suggesting the effect is practically insignificant. The two studies thus disagree on the magnitude of the effect."
+}

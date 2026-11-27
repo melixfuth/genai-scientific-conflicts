@@ -1,0 +1,21 @@
+{
+  "pair_id": "gress-pair1",
+  "domain": "natural language processing / computational social science",
+  "paper_a": {
+    "title": "ChatGPT outperforms crowd workers for text-annotation tasks",
+    "authors": "Fabrizio Gilardi, Meysam Alizadeh, Maël Kubli",
+    "year": 2023,
+    "doi_or_url": "https://doi.org/10.1073/pnas.2305016120"
+  },
+  "paper_b": {
+    "title": "Are chatbots reliable text annotators? Sometimes",
+    "authors": "Ross Deans Kristensen-McLachlan, Miceal Canavan, Márton Kardos, Mia Jacobsen, Lene Aarøe",
+    "year": 2025,
+    "doi_or_url": "https://doi.org/10.1093/pnasnexus/pgaf069"
+  },
+  "conflicting_claim": "ChatGPT can reliably replace human annotators and outperforms standard approaches on social science text annotation tasks.",
+  "conflict_type": "contradictory_results",
+  "evidence_a": "Figure 1: Across 6,183 documents, ChatGPT's zero-shot accuracy exceeds MTurk crowd workers by ~25 percentage points on average, and its intercoder agreement exceeds both crowd workers and trained annotators across all tasks.",
+  "evidence_b": "Results (Figures 1–2): Evaluated on 200 multi-coded US news tweets per task, GPT-3.5-turbo and GPT-4 show unpredictable prompt-dependent variance and low precision on the exemplar task (GPT-4 zero-shot recall dropping to 0.1), consistently underperforming a supervised DistilBERT classifier.",
+  "explanation": "Gilardi et al. (2023) demonstrate that zero-shot ChatGPT outperforms MTurk crowd workers in accuracy and achieves higher intercoder agreement than human annotators across multiple text annotation tasks. Conversely, Kristensen-McLachlan et al. (2025) benchmark GPT-3.5-turbo, GPT-4, and open-source LLMs against human-coded tweets and supervised classifiers, finding brittle, prompt-sensitive performance—especially on nuanced concepts like exemplars—and advising researchers to rely on human labeling and supervised DistilBERT models instead."
+}

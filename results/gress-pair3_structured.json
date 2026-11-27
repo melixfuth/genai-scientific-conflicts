@@ -1,0 +1,5 @@
+{
+  "conflicting_claim": "Paper A claims material incentives significantly increase the odds of starting (OR = 1.19) and finishing (OR = 1.27) web surveys, whereas Paper B reports that incentives have no statistically significant effect on online survey response rates.",
+  "conflict_type": "contradictory_results",
+  "explanation": "The two meta-analyses address the same phenomenon—whether incentives boost participation—but use different samples (32 experiments with 212,000 participants vs. 1,071 published surveys) and report opposite statistical conclusions. This direct clash of empirical findings constitutes a contradictory results conflict."
+}

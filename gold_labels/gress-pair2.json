@@ -1,0 +1,21 @@
+{
+  "pair_id": "gress-pair2",
+  "domain": "computational social science / sociology",
+  "paper_a": {
+    "title": "Increases in Depressive Symptoms, Suicide-Related Outcomes, and Suicide Rates Among U.S. Adolescents After 2010 and Links to Increased New Media Screen Time",
+    "authors": "Jean M. Twenge, Thomas E. Joiner, Megan L. Rogers, Gabrielle N. Martin",
+    "year": 2018,
+    "doi_or_url": "https://doi.org/10.1177/2167702617723376"
+  },
+  "paper_b": {
+    "title": "The association between adolescent well-being and digital technology use",
+    "authors": "Amy Orben, Andrew K. Przybylski",
+    "year": 2019,
+    "doi_or_url": "https://doi.org/10.1038/s41562-018-0506-1"
+  },
+  "conflicting_claim": "Standard regression analyses on U.S. adolescent survey data robustly demonstrate a substantial negative effect of digital screen time on mental well-being.",
+  "conflict_type": "methodological_disagreement",
+  "evidence_a": "Results section (pp. 9–14): Relying on selected covariate specifications in large U.S. adolescent surveys (Monitoring the Future and YRBS), the authors report positive correlations between new-media screen time and depressive symptoms (e.g., r = .06 among girls) and interpret them as substantial drivers of rising depression rates.",
+  "evidence_b": "Results section (pp. 174–178, Figs. 1–3): Re-analyzing the exact same U.S. survey datasets (alongside a UK cohort, total n = 355,358) via Specification Curve Analysis across 603,144,752 plausible analytical specifications, the authors show that the negative association accounts for at most 0.4% of variance and that larger effect claims depend on selective variable and model choices (analytical flexibility).",
+  "explanation": "Although both studies examine the exact same U.S. adolescent survey datasets (Monitoring the Future and YRBS), they reach opposing conclusions because of methodological choices: Twenge et al. infer a substantial practical effect from individual regression specifications, whereas Orben and Przybylski use Specification Curve Analysis to demonstrate that the median association is minuscule (at most 0.4% of explained variance) and that seemingly meaningful effect sizes arise only from selective analytical flexibility."
+}

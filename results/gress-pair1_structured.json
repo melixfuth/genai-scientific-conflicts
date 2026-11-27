@@ -1,0 +1,5 @@
+{
+  "conflicting_claim": "ChatGPT provides superior annotation accuracy and cost‑effectiveness compared to crowd‑workers and other annotation methods",
+  "conflict_type": "contradictory_results",
+  "explanation": "Paper A reports that zero‑shot ChatGPT exceeds crowd‑worker accuracy on four of five tasks and is cheaper, while Paper B finds that ChatGPT’s performance is inconsistent and generally inferior to a supervised DistilBERT classifier on binary annotation tasks. The two studies present opposing empirical results about ChatGPT’s effectiveness as a text annotator."
+}

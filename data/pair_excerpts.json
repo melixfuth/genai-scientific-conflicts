@@ -1,0 +1,53 @@
+[
+    {
+        "pair_id":  "gress-pair1",
+        "paper_a":  {
+                        "arxiv_id":  "2303.15056",
+                        "title":  "ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks",
+                        "authors":  "Fabrizio Gilardi, Meysam Alizadeh, Maël Kubli",
+                        "year":  2023,
+                        "abstract":  "Many NLP applications require manual data annotations for a variety of tasks, notably to train classifiers or evaluate the performance of unsupervised models. Depending on the size and degree of complexity, the tasks may be conducted by crowd-workers on platforms such as MTurk as well as trained annotators, such as research assistants. Using a sample of 2,382 tweets, we demonstrate that ChatGPT outperforms crowd-workers for several annotation tasks, including relevance, stance, topics, and frames detection. Specifically, the zero-shot accuracy of ChatGPT exceeds that of crowd-workers for four out of five tasks, while ChatGPT\u0027s intercoder agreement exceeds that of both crowd-workers and trained annotators for all tasks. Moreover, the per-annotation cost of ChatGPT is less than $0.003 -- about twenty times cheaper than MTurk. These results show the potential of large language models to drastically increase the efficiency of text classification."
+                    },
+        "paper_b":  {
+                        "arxiv_id":  "2311.05769",
+                        "title":  "Are Chatbots Reliable Text Annotators? Sometimes",
+                        "authors":  "Ross Deans Kristensen-McLachlan, Miceal Canavan, Márton Kardos, Mia Jacobsen, Lene Aarøe",
+                        "year":  2023,
+                        "abstract":  "Recent research highlights the significant potential of ChatGPT for text annotation in social science research. However, ChatGPT is a closed-source product which has major drawbacks with regards to transparency, reproducibility, cost, and data protection. Recent advances in open-source (OS) large language models (LLMs) offer an alternative without these drawbacks. Thus, it is important to evaluate the performance of OS LLMs relative to ChatGPT and standard approaches to supervised machine learning classification. We conduct a systematic comparative evaluation of the performance of a range of OS LLMs alongside ChatGPT, using both zero- and few-shot learning as well as generic and custom prompts, with results compared to supervised classification models. Using a new dataset of tweets from US news media, and focusing on simple binary text annotation tasks, we find significant variation in the performance of ChatGPT and OS models across the tasks, and that the supervised classifier using DistilBERT generally outperforms both. Given the unreliable performance of ChatGPT and the significant challenges it poses to Open Science we advise caution when using ChatGPT for substantive text annotation tasks."
+                    }
+    },
+    {
+        "pair_id":  "gress-pair2",
+        "paper_a":  {
+                        "doi":  "10.1177/2167702617723376",
+                        "title":  "Increases in Depressive Symptoms, Suicide-Related Outcomes, and Suicide Rates Among U.S. Adolescents After 2010 and Links to Increased New Media Screen Time",
+                        "authors":  "Jean M. Twenge, Thomas E. Joiner, Megan L. Rogers, Gabrielle N. Martin",
+                        "year":  2018,
+                        "abstract":  "Adolescent depressive symptoms and suicide-related outcomes in the United States increased sharply after 2010. Analyzing large nationally representative surveys of U.S. adolescents, we examine links between mental health indicators and daily activities. Adolescents who spent more time on electronic devices and social media were significantly more likely to report mental health issues, whereas those spending more time on nonscreen activities such as in-person social interaction and sports reported fewer symptoms. We conclude that the rise in new media screen time is a key driver of worsening adolescent mental health."
+                    },
+        "paper_b":  {
+                        "doi":  "10.1038/s41562-018-0506-1",
+                        "title":  "The association between adolescent well-being and digital technology use",
+                        "authors":  "Amy Orben, Andrew K. Przybylski",
+                        "year":  2019,
+                        "abstract":  "Concerns that digital technology use harms adolescent well-being rely largely on secondary analyses of large-scale social datasets, where high analytical flexibility can turn tiny correlations into statistically significant findings. Applying Specification Curve Analysis across three large datasets totaling 355,358 adolescents, we systematically evaluate all plausible analytical models. We find a negative but minuscule association between digital technology use and well-being that explains at most 0.4% of the variation, suggesting the effect is far too small to warrant policy changes."
+                    }
+    },
+    {
+        "pair_id":  "gress-pair3",
+        "paper_a":  {
+                        "doi":  "10.1016/ijis.2006.01.005",
+                        "title":  "Incentives in Web Studies: Methodological Issues and a Review",
+                        "authors":  "Anja S. Göritz",
+                        "year":  2006,
+                        "abstract":  "Incentives are a common means of increasing response to surveys. However, their effectiveness in Web studies is still unclear. This article reviews the methodological issues surrounding incentives in Web studies and presents a meta-analysis of 32 experiments involving more than 212,000 participants. Results show that material incentives significantly increase the odds of starting a Web survey (OR = 1.19) as well as finishing it (OR = 1.27), though the effect size is smaller than in offline surveys."
+                    },
+        "paper_b":  {
+                        "doi":  "10.1016/j.chbr.2022.100206",
+                        "title":  "Response Rates of Online Surveys in Published Research: A Meta-Analysis",
+                        "authors":  "Meng-Jia Wu, Kelly Zhao, Francisca Fils-Aime",
+                        "year":  2022,
+                        "abstract":  "Online surveys have become a primary data collection method across disciplines, yet low response rates remain a persistent concern. We conducted a meta-analysis examining 1,071 online survey response rates reported in published education-related research. Our findings indicate that the average online survey response rate is 44.1%, and contrary to common assumptions, using incentives does not have a statistically significant effect on response rates, whereas pre-contacting participants, sending reminders, and clearly defining the target population significantly improve participation."
+                    }
+    }
+]
